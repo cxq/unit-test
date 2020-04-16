@@ -1,0 +1,21 @@
+#hamburger {
+    color: #3498db;
+    font-size: 20px;
+    background-color: green;
+}
+
+.hamburger .icon a {
+    height: 20px;
+}
+
+.hamburger .icon {
+    color: blue !important;
+}
+
+.hamburger.active .icon {
+    color: red!important;
+}
+
+.navigation a {
+    font-size: 12px;
+}
